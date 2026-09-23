@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-Scope: this licence covers the files in this repository written by Kanto Labs
-(the workflow .json, install_models.py and the documentation). It does not cover
-ComfyUI, custom node packs or any model weights, which are separate works under
-their own licences - see THIRD_PARTY.md. The LTX-2.x Community License applies
-to the model and to how you publish its outputs.

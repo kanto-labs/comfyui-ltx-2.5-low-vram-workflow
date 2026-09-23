@@ -19,7 +19,7 @@ checks its SHA-256.
 | `LITE_LTX25_Text_to_Video.json` | The ComfyUI workflow. Drag it onto the canvas. |
 | `install_models.py` | Downloads the models from the publishers' Hugging Face repos into the right ComfyUI folders; verifies exact size + SHA-256; resumes interrupted downloads. Python 3.8+, standard library only. |
 | `THIRD_PARTY.md` | Every node pack and model the workflow uses, with its licence in plain English. |
-| `LICENSE` | MIT (for the files written by us). |
+| `LICENSE` | MIT - covers the files written by us (workflow, installer, docs). ComfyUI, node packs and model weights are separate works under their own licences; the LTX-2.x Community License governs the model and its outputs. |
 
 ## Quick start
 
